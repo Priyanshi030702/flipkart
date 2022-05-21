@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Comforter&family=Parisienne&family=Shippori+Antique&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+footer{
+    height: 5vh;
+    background: black;
+    color: white;
+    font-family: 'Shippori Antique', sans-serif;
+}
+
